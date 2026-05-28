@@ -1,0 +1,43 @@
+AMI MEETING SUMMARY REPORT
+Meeting ID: ES2002a
+==================================================
+
+# MEETING ANALYSIS REPORT
+
+## SUMMARY
+This is the kick-off meeting for a remote control design project involving a project manager (Laura), industrial designer (David), marketing expert (Andrew), and UI specialist (Craig). The team discussed project objectives to create an original, trendy, and user-friendly remote control selling at €25 with a target revenue of €50 million. The meeting included an icebreaker exercise drawing favorite animals and substantive discussions around international market implications and production costs (€12.50 maximum).
+
+## KEY DECISIONS
+- **Project Structure**: Three-stage design process with individual work alternating with team meetings
+- **Pricing Strategy**: Retail selling price of €25 with production cost cap of €12.50 (50% of selling price)
+- **Target Revenue**: €50 million on international scale
+- **Design Brief Requirements**: Remote must be original, trendy, and user-friendly
+- **Potential Feature Direction**: Discussion toward multi-functional remote combining multiple device controls
+
+## ACTION ITEMS
+- Laura to record attendance and document meeting notes
+- Team to conduct individual work between meetings on design concepts
+- Further research needed on competitive remote control pricing benchmarks
+- Investigation of international regional variations (zones, frequencies, character sets)
+- Clarification needed on whether €25 is wholesale or retail pricing
+
+## MAIN TOPICS
+1. **Project Introduction & Team Roles** — Establishing team composition and project scope
+2. **Project Finance** — Budget constraints, selling price, production costs, and international pricing implications
+3. **Market Considerations** — International expansion impact on design (regional zones, languages, button requirements)
+4. **Product Positioning** — Premium vs. standard positioning; whether €25 represents value or premium pricing
+5. **Feature Expansion** — Discussion of multi-functional capabilities (combining TV, DVD, VCR, lighting controls, notes feature)
+6. **Market Research Gap** — Identified need for competitive pricing data
+
+## MEETING DYNAMICS
+- **Participation**: Good engagement from all team members; Andrew (marketing) particularly active in discussing market implications; David (industrial designer) contributed design perspective thoughts
+- **Discussion Style**: Collaborative and exploratory with frequent back-and-forth dialogue; Laura as facilitator managed transitions between topics
+- **Tone**: Informal and friendly, evidenced by extended icebreaker activity; team building through personal conversation
+- **Time Management**: Meeting ran long with the icebreaker section; Laura noted they were "a bit behind" schedule toward the end
+- **Communication**: Some overlapping dialogue and incomplete exchanges, suggesting informal, natural team interaction rather than rigid structure
+
+==================================================
+HUMAN GOLD STANDARD SUMMARY (AMI Corpus)
+==================================================
+
+The project manager introduced the upcoming project to the team members and then the team members participated in an exercise in which they drew their favorite animal and discussed what they liked about the animal. The project manager talked about the project finances and selling prices. The team then discussed various features to consider in making the remote. The industrial designer will work on the working design of the remote. The user interface designer will work on the technical functions of the remote. The marketing executive will work on what requirements the remote has to fulfill The remote will sell for 25 Euro. The remote will be sold on an international scale. The production costs cannot exceed 12.50 Euro. Whether the remote will be used exclusively for televisions.
